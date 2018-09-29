@@ -1,0 +1,14 @@
+# NPM packages folder
+node_modules/
+
+# Elm files
+elm-stuff/
+
+# OS
+.DS_Store
+
+# Editor folder
+.vscode
+
+# Brunch output folder
+public/
