@@ -3,7 +3,7 @@
   "summary": "Elm Pomodoro Timer app",
   "repository": "https://github.com/TarasPyzo/elm-pomodoro-timer.git",
   "license": "BSD3",
-  "source-directories": ["src/elm"],
+  "source-directories": ["app/elm"],
   "exposed-modules": [],
   "dependencies": {
     "elm-lang/core": "5.0.0 <= v < 6.0.0",

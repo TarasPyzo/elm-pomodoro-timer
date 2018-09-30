@@ -13,3 +13,5 @@ cd elm-pomodoro-timer
 npm install
 npm start
 ```
+
+Application starts on http://localhost:3333/
